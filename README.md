@@ -24,9 +24,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-Kumar01&show_icons=true&theme=radical)
 
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: your-link
+- LinkedIn: https://www.linkedin.com/in/chetan-kumar-a9461a28b/
